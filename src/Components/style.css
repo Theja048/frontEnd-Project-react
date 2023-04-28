@@ -1,0 +1,17 @@
+*{
+	box-sizing:border-box
+}
+body {
+   background-color: aqua;
+}
+  
+.tag {
+    text-align: center;
+}
+
+
+.slick-slide img {
+	height: 450px;
+	width:auto
+	
+}
